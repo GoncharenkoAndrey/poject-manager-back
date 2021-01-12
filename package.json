@@ -1,0 +1,19 @@
+{
+  "name": "poject-manager-back",
+  "version": "1.0.0",
+  "description": "Projects Manager Back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoncharenkoAndrey/poject-manager-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoncharenkoAndrey/poject-manager-back/issues"
+  },
+  "homepage": "https://github.com/GoncharenkoAndrey/poject-manager-back#readme"
+}
